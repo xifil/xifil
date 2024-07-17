@@ -2,10 +2,10 @@
 <h1 align="center">👋 Hi!</h1>
 <p align="center">
 	I'm Lifix, better known for my works in <a href="https://github.com/CheatBreakerX">porting CheatBreaker to modern versions</a> and maintaining <a href="https://zeromods.xyz/">Zero Mods</a>.<br/>
-	<em>Quick links: <a href="https://github.com/xifil/xifil/blob/main/useful.md">useful.md</a></em>
+	<em>Quick links: <a href="https://github.com/xifil/xifil/blob/master/useful.md">useful.md</a></em>
 </p>
 <a href="https://github.com/CheatBreakerX/Client">
-	<img width="100%" src="https://github.com/xifil/xifil/blob/main/I_AM_JAVA.png" alt="funny">
+	<img width="100%" src="https://github.com/xifil/xifil/blob/master/I_AM_JAVA.png" alt="funny">
 </a>
 
 <div align="center" style="margin-block: 1.5em">
@@ -46,15 +46,15 @@
 	</div>
 	<h2>Socials</h2>
 	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://youtube.com/@3x3p"><img width="48px" src="https://github.com/xifil/xifil/blob/main/assets/png/youtube.png?raw=true" /></a>
-		<a href="https://open.spotify.com/user/8thm"><img width="48px" src="https://github.com/xifil/xifil/blob/main/assets/png/spotify.png?raw=true" /></a>
+		<a href="https://youtube.com/@3x3p"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/youtube.png?raw=true" /></a>
+		<a href="https://open.spotify.com/user/8thm"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/spotify.png?raw=true" /></a>
 		<a href="https://discord.com/users/180430713873498113/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 		<a href="https://discord.com/users/422200068951769098/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 		<a href="https://twitter.com/CheatBreakerX"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
 		<a href="https://twitter.com/LixGotWiFi"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-		<a href="https://namemc.com/profile/2x2p.1"><img width="48px" src="https://github.com/xifil/xifil/blob/main/assets/png/namemc.png?raw=true" /></a>
-		<a href="https://namemc.com/profile/1x1p.1"><img width="48px" src="https://github.com/xifil/xifil/blob/main/assets/png/namemc.png?raw=true" /></a>
-		<a href="https://namemc.com/profile/AstroxPapa.1"><img width="48px" src="https://github.com/xifil/xifil/blob/main/assets/png/namemc.png?raw=true" /></a>
+		<a href="https://namemc.com/profile/2x2p.1"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/namemc.png?raw=true" /></a>
+		<a href="https://namemc.com/profile/1x1p.1"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/namemc.png?raw=true" /></a>
+		<a href="https://namemc.com/profile/AstroxPapa.1"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/namemc.png?raw=true" /></a>
 	</div>
 	<h2>Status</h2>
 	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
