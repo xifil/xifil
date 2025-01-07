@@ -20,6 +20,7 @@ Navigate to *Options* `>` *Graphics* `>` *Quality*, then:
 ![Streaming Quality: Low](/assets/png/ModernWarfare_97TwoxarQt.png)
 - Set *Texture Resolution* to *Very Low*
 ![Texture Resolution: Very Low](/assets/png/ModernWarfare_KAtFweObSJ.png)
+
 Press *F* to apply, or just click *Apply Settings* at the bottom of your screen.
 
 ### 3. Restart shaders installation
