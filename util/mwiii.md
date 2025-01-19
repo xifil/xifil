@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 19/01/2025 @ 16:10
+> Last updated 19/01/2025 @ 11:28
 
 ## Assault Rifles
 
