@@ -8,8 +8,6 @@
   > Complete 5 Daily Challenges to Unlock BAL-27
 - BP50  
   > Complete 5 Daily Challenges to Unlock BP50
-- Chimera  
-  > Get 2 Operator Kills with Assault Rifles in 15 separate matches
 - FR 5.56  
   > Complete 3 Daily Challenges to Unlock FR 5.56
 - ISO Hemlock  
