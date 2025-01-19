@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 19/01/2025 @ 14:50
+> Last updated 19/01/2025 @ 14:51
 
 ## Assault Rifles
 
@@ -41,8 +41,6 @@
   > *No description*
 - FTAC Recon  
   > Unlock by leveling the M4 to LEVEL 13
-- Lachmann-762  
-  > Get 50 Operator Headshot Kills with Assault Rifles
 - MTZ-762  
   > Complete 3 Daily Challenges to Unlock MTZ-762
 - Sidewinder  
