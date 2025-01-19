@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 10/01/2025 @ 16:10
+> Last updated 19/01/2025 @ 16:10
 
 ## Assault Rifles
 
@@ -180,8 +180,6 @@
 
 - BAS-P  
   > Get 25 Headshots using SMGs
-- Fennec 45  
-  > Get 50 Operator Hipfire Kills with SMGs
 - FJX Horus  
   > Complete 5 Daily Challenges to Unlock FJX Horus
 - FSS Hurricane  
@@ -189,12 +187,8 @@
   > Get the FTAC Recon to LEVEL 16
 - HRM-9  
   > Complete 3 Daily Challenges to Unlock HRM-9
-- ISO 45  
-  > Get 45 kills using SMGs without taking damage
 - ISO 9mm  
   > Get 20 Operator Double Kills using SMGs
-- Lachmann Shroud  
-  > Get 30 Operator Hipfire Kills with SMGs
 - Lachmann Sub  
   > Get the Lachmann-762 to LEVEL 13  
   > Get the Lachmann-556 to LEVEL 12
@@ -218,8 +212,6 @@
   > Get the Kastov 762 to LEVEL 11  
   > Get the Kastov 545 to LEVEL 13  
   > Get the Kastov-74u to LEVEL 13
-- WSP-9  
-  > Complete 3 Daily Challenges to Unlock WSP-9
 
 ## Sniper Rifles
 
