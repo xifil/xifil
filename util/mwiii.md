@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 19/01/2025 @ 11:28
+> Last updated 19/01/2025 @ 14:30
 
 ## Assault Rifles
 
@@ -12,8 +12,6 @@
   > Get 2 Operator Kills with Assault Rifles in 15 separate matches
 - FR 5.56  
   > Complete 3 Daily Challenges to Unlock FR 5.56
-- FR Avancer  
-  > Get 35 Operator Headshot Kills
 - ISO Hemlock  
   > Get 50 Operator Longshot Kills with Assault Rifles
 - Kastov-74u  
@@ -25,8 +23,6 @@
   > Get 50 Operator Kills while Prone with Assault Rifles
 - Lachmann-556  
   > Unlock by leveling the Lachmann-762 to LEVEL 13
-- M13C  
-  > Get 35 Operator Kills using Assault Rifles
 - M16  
   > Get the M4 to LEVEL 18  
   > Get the 556 Icarus to LEVEL 13
