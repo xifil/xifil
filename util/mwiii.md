@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 19/01/2025 @ 14:30
+> Last updated 19/01/2025 @ 14:50
 
 ## Assault Rifles
 
@@ -28,8 +28,6 @@
   > Complete 3 Daily Challenges to Unlock RAM-7
 - STB 556  
   > Get 50 Operator Point Blank Kills with Assault Rifles
-- TAQ-56  
-  > Get 5 Operator Kills in 1 life 10 Times with Assault Rifles
 - Tempus Razorback  
   > Get 35 Operator kills while Mounted using Assault Rifles
 - TR-76 Geist  
