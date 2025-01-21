@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 21/01/2025 @ 18:37
+> Last updated 21/01/2025 @ 19:41
 
 ## Assault Rifles
 
@@ -26,8 +26,6 @@
   > Get the 556 Icarus to LEVEL 13
 - RAM-7  
   > Complete 3 Daily Challenges to Unlock RAM-7
-- STB 556  
-  > Get 50 Operator Point Blank Kills with Assault Rifles
 - Tempus Razorback  
   > Get 35 Operator kills while Mounted using Assault Rifles
 - TR-76 Geist  
@@ -56,8 +54,6 @@
   > Get 50 Operator Headshot Kills with Handguns
 - 9mm Daemon  
   > Get 15 Operator Headshot Kills with Pistols
-- Basilisk  
-  > Get 3 Operator Kills in 1 life 10 Times with Handguns
 - FTAC Siege  
   > Get 50 Hipfire Operator Kills using Pistols
 - GS Magna  
