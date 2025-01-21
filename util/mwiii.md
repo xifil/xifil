@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 19/01/2025 @ 14:51
+> Last updated 21/01/2025 @ 18:37
 
 ## Assault Rifles
 
@@ -39,8 +39,6 @@
   > Get 30 headshots with Battle Rifles
 - DTIR 30-06  
   > *No description*
-- FTAC Recon  
-  > Unlock by leveling the M4 to LEVEL 13
 - MTZ-762  
   > Complete 3 Daily Challenges to Unlock MTZ-762
 - Sidewinder  
@@ -84,8 +82,6 @@
 
 ## LMGs
 
-- 556 Icarus  
-  > Unlock by leveling the M4 to LEVEL 18
 - HCR 56  
   > Unlock by leveling the STB 556 to LEVEL 20
 - Holger 26  
