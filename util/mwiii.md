@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 23/01/2025 @ 17:26
+> Last updated 23/01/2025 @ 17:47
 
 ## Assault Rifles
 
@@ -151,8 +151,6 @@
 
 ## SMGs
 
-- BAS-P  
-  > Get 25 Headshots using SMGs
 - FJX Horus  
   > Complete 5 Daily Challenges to Unlock FJX Horus
 - FSS Hurricane  
