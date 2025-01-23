@@ -1,6 +1,6 @@
 # MWIII Remaining Weapons
 
-> Last updated 21/01/2025 @ 19:41
+> Last updated 23/01/2025 @ 17:26
 
 ## Assault Rifles
 
@@ -119,25 +119,16 @@
 - Tempus Torrent  
   > Get 25 Double Kills using a Marksman Rifle
 
-## Melee (Primary)
-
-- Riot Shield  
-  > Get 3 Operator Kills in 1 life 10 Times with Melee weapons
-
 ## Melee (Secondary)
 
 - Combat Knife  
   > Get 50 Operator Kills from Behind with Melee Weapons
-- Dual Kodachis  
-  > Get 100 kills with Melee Weapons
 - Dual Kamas  
   > Get 30 Operator kills from behind using melee weapons
 - Gladiator  
   > Complete 5 Daily Challenges to Unlock Gladiator
 - Karambit  
   > Complete 5 Daily Challenges to Unlock Karambit
-- Pickaxe  
-  > Get 15 Operator Kills with Melee Weapons
 - Sledgehammer  
   > Complete 5 Daily Challenges to Unlock Sledgehammer
 - Soulrender  
