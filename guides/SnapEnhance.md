@@ -23,7 +23,7 @@ The only requirement from Google Play is [Shizuku](https://play.google.com/store
 ## 2. Install requirements from package
 You will need three apps from standard packages (.apk)
 1. Snapchat v12.81.0.44\* ([nodpi](https://lifix.is-scamming.me/content/cdn/sRLZWLSzBwTP/com.snapchat.android_12.81.0.44-126022_minAPI21(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk)) ([160-640dpi](https://lifix.is-scamming.me/content/cdn/ANSCDlAEtAqv/com.snapchat.android_12.81.0.44-126022_2arch_3dpi_14lang_60d3470e93546a3d8996a012a289770d_apkmirror.com.apkm))
-2. [LSPatch](https://github.com/xifil/xifil/raw/master/assets/apk/LSPatch-v0.6-398.apk)
+2. [LSPatch](https://github.com/xifil/xifil/raw/master/assets/apk/LSPatch-v0.7-430.apk)
 3. [SnapEnhance](https://xifil.github.io/se-redirect)
 
 > \* *Snapchat has locked many user accounts that used SnapEnhance or its related forks due to new detections. It's recommended to use Snapchat v12.81.0.44 or earlier. Only use signed builds or builds you've modified yourself to avoid compromising the security of your account.*
